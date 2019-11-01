@@ -22,7 +22,7 @@ According to the docs, we'll need to POST to `https://api.foursquare.com/v2/tips
 
 Let's try this out in Postman first.
 
-We'll need our oauth token to do this. Fortunately we already have this in our app, so to get it into Postman, we're going to temporarily display it on the page so we can copy and paste it:
+We'll need our oauth tokaen to do this. Fortunately we already have this in our app, so to get it into Postman, we're going to temporarily display it on the page so we can copy and paste it:
 
 ```erb
 # searches\search.html.erb
