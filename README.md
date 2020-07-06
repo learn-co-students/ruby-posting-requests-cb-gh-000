@@ -8,7 +8,7 @@
 
 ## Lesson
 
-We're going to keep working with our Foursquare application and allow users to add tips to venues. The solution from the OAuth reading is included.
+We're going to keep working with our Foursquare application and allow users to add tips to venues. The solution from the OAuth reading is included. j
 
 **Note:** Don't forget to set up your `.env` file (or copy it from the previous lesson)!
 
